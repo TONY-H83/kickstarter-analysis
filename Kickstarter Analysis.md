@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Testing this readme file
+The purpose of this project is to provide Louise with a clear look at the trends related of past kickstarter events. One of the deliverables was to highlight what time of year has historically been the most successful. The other key piece of information needed from this analysis is 
 ### Purpose
 additional testing
 ## Analysis and Challenges
