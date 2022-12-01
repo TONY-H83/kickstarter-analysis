@@ -14,9 +14,9 @@ It was very clear what Louise wanted to deduce from the data set, the challenge 
 
 I knew this was going to be more than just applying some filters and sorting the data. I was going to need to peel back the layers of the onion in order to expose the key aspects of the data and create a visual product that quickly, neatly, and clearly displays the answers to Louis's questions.Below I explain just how I was able to do that.
 ### Analysis of Outcomes Based on Launch Date
-
+![Outcomes Based on Launch Date](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes Based on Goals](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
@@ -24,7 +24,5 @@ I knew this was going to be more than just applying some filters and sorting the
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 - What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
