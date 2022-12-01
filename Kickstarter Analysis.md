@@ -10,7 +10,7 @@ Louise just recently finiched a fundraising campaign and now wants to know how/w
 ## Analysis and Challenges
 It was very clear what Louise wanted to deduce from the data set, the challenge was figuring out how to organize the data in an way that made sense and answered her questions.
 > *"Data analytics is the science of analyzing raw data to make conclusions about that information"*
->                                                 *-[Investopdeia](https://www.investopedia.com/terms/d/data-analytics.asp)*                               
+>                                                 *-[Investopedia](https://www.investopedia.com/terms/d/data-analytics.asp)*                               
 
 I knew this was going to be more than just applying some filters and sorting the data. I was going to need to peel back the layers of the onion in order to expose the key aspects of the data and create a visual product that quickly, neatly, and clearly displays the answers to Louis's questions.Below I explain just how I was able to do that.
 ### Analysis of Outcomes Based on Launch Date
