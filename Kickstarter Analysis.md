@@ -32,10 +32,12 @@ The next part of the analysis was to calcualte the percentage of those theater c
 
 ![Outcomes Based on Goals](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png). 
 ### Challenges and Difficulties Encountered
-
+For myself, the it was challenging learning to work in the constraints of somebody elses exact requirements. In some of my past experience i simply get a broad request and I can create the analysis and visuals based on what I feel represents them best. What this does though is get us (data analytists) into a comfort zone abd we begin to only use tools we're comfortable with. Being forced to use specified charts and graphs was both chellenging but a great learning experience at the same time. It would have been easy to miss something if we only knew one way to prepare the data. With this data set I would have been frustrated at the visual results had the goals not been grouped into a range as the graph marks would be too cluttered. I did not think about the ranges until instructed to do so. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  1. The first conclusion I can report on is that the Q2 and Q3 between April are the most successful two quarters of the year for theater campaigns. That time period resulted in 60% of the annual successful campaigns.
+  2. The most successful month to initiate a theater campaign would be in May. May showed a 67% success rate over failure rate with 111 successful campaigns out of the 166 initiated in that month. 
 
 - What can you conclude about the Outcomes based on Goals?
 
