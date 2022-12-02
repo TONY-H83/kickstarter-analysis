@@ -40,5 +40,6 @@ For myself, the it was challenging learning to work in the constraints of somebo
   2. The most successful month to initiate a theater campaign would be in May. May showed a 67% success rate over failure rate with 111 successful campaigns out of the 166 initiated in that month. 
 
 - What can you conclude about the Outcomes based on Goals?
-
+  1. The first conclusion I can report on is that there was a large spread between the number of "play" campaigns that were aiming for a pledge goal of $1000-$4999 than any other goal. But suprisingly this goal range did not result in the highest success rate. The goal that had the highest success rate were "play" campaigns of less than $1000.
+  2. The result that was most surprising to me was that the graph demonstrates that if a campaign's goal is greater than $4999, there is a higher success rate if the goal is raised to $35000-$39999.  
 - What are some other possible tables and/or graphs that we could create?
