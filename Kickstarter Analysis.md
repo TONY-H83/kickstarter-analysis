@@ -28,7 +28,7 @@ I knew this was going to be more than just applying some filters and sorting the
 The next part of the analysis was to calculate the percentage of those theater campaigns that were successful, failed, or canceled. That required some simple SUM formulas that looked at the number successful, failed, and canceled/total number of projects for a given goal range. 
 **Outcomes -** The outcomes are displayed below. The first being the chart showing theater campaigns by goal range, outcome cum, and outcome percentages. The second outcome displayed is the line graph providing the visual results.
 
-![Outcomes by goal chart](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Outcomes%20by%20goal%20chart.png)
+![Outcomes by goal chart](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Outcomes%20vs%20goal%20chart-V2.png)
 
 ![Outcomes Based on Goals](https://github.com/TONY-H83/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png). 
 ### Challenges and Difficulties Encountered
